@@ -1,0 +1,19 @@
+[
+  {
+    "suitability_id": 1,
+    "user_id": 1,
+    "score": 25,
+    "profile": "Conservador",
+    "evaluation_date": "2024-01-15",
+    "json": "{\"risk_tolerance\": \"baixa\", \"investment_horizon\": \"curto_prazo\", \"liquidity_need\": \"alta\", \"experience\": \"iniciante\"}"
+  },
+  {
+    "suitability_id": 2,
+    "user_id": 2,
+    "score": 65,
+    "profile": "Moderado",
+    "evaluation_date": "2024-02-20",
+    "json": "{\"risk_tolerance\": \"media\", \"investment_horizon\": \"medio_prazo\", \"liquidity_need\": \"media\", \"experience\": \"intermediario\"}"
+  }
+]
+

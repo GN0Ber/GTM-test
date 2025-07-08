@@ -1,0 +1,19 @@
+[
+  {
+    "card_id": 1,
+    "user_id": 1,
+    "masked_number": "**** **** **** 9999",
+    "token": "token_seguro_123",
+    "brand": "Visa",
+    "expiration_date": "25/12"
+  },
+  {
+    "card_id": 2,
+    "user_id": 2,
+    "masked_number": "**** **** **** 9999",
+    "token": "token_seguro_456",
+    "brand": "Mastercard",
+    "expiration_date": "25/12"
+  }
+]
+

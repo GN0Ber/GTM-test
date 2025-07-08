@@ -1,0 +1,21 @@
+[
+  {
+    "user_id": 1,
+    "name": "João",
+    "surname": "Silva",
+    "email": "joao.silva@email.com",
+    "password_hash": "hashed_password_123",
+    "income_range": "R$ 3.000 - R$ 5.000",
+    "sign_on_date": "2024-01-15"
+  },
+  {
+    "user_id": 2,
+    "name": "Maria",
+    "surname": "Santos",
+    "email": "maria.santos@email.com",
+    "password_hash": "hashed_password_456",
+    "income_range": "R$ 5.000 - R$ 10.000",
+    "sign_on_date": "2024-02-20"
+  }
+]
+

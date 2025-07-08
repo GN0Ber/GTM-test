@@ -1,0 +1,17 @@
+[
+  {
+    "session_id": 1,
+    "user_id": 1,
+    "session_compiled": "Usuário demonstrou interesse em investimentos seguros, mencionou medo de perder dinheiro, tem reserva de emergência, objetivo de comprar imóvel no futuro.",
+    "session_date": "2024-01-16",
+    "recommendation_id": 1
+  },
+  {
+    "session_id": 2,
+    "user_id": 2,
+    "session_compiled": "Usuário tem experiência prévia com investimentos, busca diversificação, aceita risco moderado, prazo de investimento de 2-3 anos.",
+    "session_date": "2024-02-21",
+    "recommendation_id": 2
+  }
+]
+

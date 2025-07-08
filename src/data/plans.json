@@ -1,0 +1,24 @@
+[
+  {
+    "plan_id": 1,
+    "plan_name": "Consulta Avulsa",
+    "price": 29.90,
+    "description": "Uma consulta individual com o assistente virtual",
+    "features": ["1 sessão de chat", "1 recomendação personalizada", "Suporte por 7 dias"]
+  },
+  {
+    "plan_id": 2,
+    "plan_name": "Plano Mensal",
+    "price": 79.90,
+    "description": "Acesso ilimitado por 30 dias",
+    "features": ["Sessões ilimitadas", "Recomendações ilimitadas", "Refazer suitability", "Suporte prioritário"]
+  },
+  {
+    "plan_id": 3,
+    "plan_name": "Plano Anual",
+    "price": 799.90,
+    "description": "Acesso ilimitado por 12 meses com desconto",
+    "features": ["Sessões ilimitadas", "Recomendações ilimitadas", "Refazer suitability", "Suporte prioritário", "Relatórios mensais", "2 meses grátis"]
+  }
+]
+

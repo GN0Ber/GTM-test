@@ -1,0 +1,21 @@
+[
+  {
+    "recommendation_id": 1,
+    "user_id": 1,
+    "session_id": 1,
+    "suitability_id": 1,
+    "input_json": "{\"profile\": \"conservador\", \"amount\": 10000, \"horizon\": \"curto_prazo\"}",
+    "output_json": "{\"assets\": [{\"name\": \"Tesouro Selic 2029\", \"percentage\": 40, \"description\": \"Título público com liquidez diária e baixo risco\"}, {\"name\": \"CDB Banco XP 12 meses\", \"percentage\": 35, \"description\": \"Certificado de Depósito Bancário com proteção do FGC\"}, {\"name\": \"Fundo DI Conservador\", \"percentage\": 25, \"description\": \"Fundo de renda fixa com baixa volatilidade\"}]}",
+    "request_date": "2024-01-16"
+  },
+  {
+    "recommendation_id": 2,
+    "user_id": 2,
+    "session_id": 2,
+    "suitability_id": 2,
+    "input_json": "{\"profile\": \"moderado\", \"amount\": 25000, \"horizon\": \"medio_prazo\"}",
+    "output_json": "{\"assets\": [{\"name\": \"Fundo Multimercado Internacional\", \"percentage\": 30, \"description\": \"Fundo diversificado com exposição internacional\"}, {\"name\": \"ETF Ibovespa (BOVA11)\", \"percentage\": 25, \"description\": \"Fundo de índice que replica o Ibovespa\"}, {\"name\": \"Debêntures Incentivadas\", \"percentage\": 25, \"description\": \"Títulos de infraestrutura com benefício fiscal\"}, {\"name\": \"Tesouro IPCA+ 2029\", \"percentage\": 20, \"description\": \"Título público protegido da inflação\"}]}",
+    "request_date": "2024-02-21"
+  }
+]
+
